@@ -11,4 +11,8 @@ This survey was designed and developed by [Drugs and me](https://drugsand.me/)
 
 ![d&m logo](media/Logo-Wide.png)
 
+Special thanks to:
+
+- [Reagent tests UK](https://www.reagent-tests.uk/)
+![reagent logo](media/reagent_tests.png)
 
