@@ -2,6 +2,8 @@
 
 Survey live until end of April 2020. Please participate: https://www.surveymonkey.co.uk/r/drugusecovid19
 
+If you are interested in writing an academic paper with the data, please email ivan@drugsand.me 
+
 This survey was designed and developed by [Drugs and me](https://drugsand.me/)
 
 ![d&m logo](media/Logo-Wide.png)
