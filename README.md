@@ -8,6 +8,12 @@ The survey was designed and developed by me (Ivan) with the support of my team a
 
 ![d&m logo](media/Logo-Wide.png)
 
+The cleaned data is in [/cleaned_data] (https://github.com/iezqrom/covid19_drug_use/tree/master/cleaned_data). Most questions have been dummy coded, not all. The questions and their corresponding headers can be found at [/cleaned_data/questions_headers.txt](https://github.com/iezqrom/covid19_drug_use/tree/master/cleaned_data/questions_headers.txt). To understand how this have been done pelase refer to [/src_cleaning/cleaning_data_ivan.py](https://github.com/iezqrom/covid19_drug_use/blob/master/src_cleaning/cleaning_data_ivan.py).
+
+If something is unclear, please email me at ivan@drugsand.me
+
+You can also edit the README.md file direclty and use gitish' to tell me about it.
+
 ## Introduction
 
 The aims of this repository are:
@@ -16,9 +22,9 @@ The aims of this repository are:
 - to facilitate discussion and dissemination of the insights obtained
 
 ## Results
-On the 7th of May, I gave a talk for the student Neuroscience society at University College London. I went through some preliminary analysis I managed to get done in a week after we closed the survey. Watch the full talk [here] (https://www.facebook.com/uclneurosoc/videos/929508020827421/)
+On the 7th of May, I gave a talk for the student Neuroscience society at University College London. I went through some preliminary analysis I managed to get done in a week after we closed the survey. Watch the full talk [here](https://www.facebook.com/uclneurosoc/videos/929508020827421/)
 
-On the 8th of June, Ivan published a short blog post about his journey before, during and after the survey. Read it [here] (https://drugsand.me/en/blog/covid-19-survey-results/).
+On the 8th of June, Ivan published a short blog post about his journey before, during and after the survey. Read it [here](https://drugsand.me/en/blog/covid-19-survey-results/).
 
 ## Acknowledgements
 
