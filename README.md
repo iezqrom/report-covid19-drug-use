@@ -8,7 +8,7 @@ The survey was designed and developed by me (Ivan) with the support of my team a
 
 ![d&m logo](media/Logo-Wide.png)
 
-The cleaned data is in [/cleaned_data] (https://github.com/iezqrom/covid19_drug_use/tree/master/cleaned_data). Most questions have been dummy coded, not all. The questions and their corresponding headers can be found at [/cleaned_data/questions_headers.txt](https://github.com/iezqrom/covid19_drug_use/tree/master/cleaned_data/questions_headers.txt). To understand how this have been done pelase refer to [/src_cleaning/cleaning_data_ivan.py](https://github.com/iezqrom/covid19_drug_use/blob/master/src_cleaning/cleaning_data_ivan.py).
+The cleaned data is in [/cleaned_data](https://github.com/iezqrom/covid19_drug_use/tree/master/cleaned_data). Most questions have been dummy coded, not all. The questions and their corresponding headers can be found at [/cleaned_data/questions_headers.txt](https://github.com/iezqrom/covid19_drug_use/tree/master/cleaned_data/questions_headers.txt). To understand how this have been done pelase refer to [/src_cleaning/cleaning_data_ivan.py](https://github.com/iezqrom/covid19_drug_use/blob/master/src_cleaning/cleaning_data_ivan.py).
 
 If something is unclear, please email me at ivan@drugsand.me
 
