@@ -1,2 +1,2 @@
-rawdata/*.csv
+rawdata/
 src_analysis/raffle_randomisation.py
