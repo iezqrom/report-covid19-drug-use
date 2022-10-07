@@ -57,7 +57,6 @@ keyboard==0.13.4
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
-matlabengineforpython===R2019b
 matplotlib==3.1.2
 mccabe==0.6.1
 mistune==0.8.4
