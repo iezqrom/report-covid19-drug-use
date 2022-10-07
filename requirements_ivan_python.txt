@@ -65,7 +65,7 @@ moviepy==1.0.1
 mplcursors==0.3
 msgpack==0.6.2
 msgpack-numpy==0.4.4.3
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==4.4.0
 nidaqmx==0.5.7
 notebook==6.0.2
