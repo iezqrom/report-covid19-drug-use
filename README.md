@@ -24,7 +24,7 @@ On the 7th of May 2020, I gave a talk for the student Neuroscience society at Un
 
 On the 8th of June 2020, I published a short blog post about the work before, during and after the survey. Read it [here](https://drugsand.me/en/blog/covid-19-survey-results/).
 
-On December 2020, Eszter and I published a full report of the findings of the survey. Read the full report (here)[https://dnm-storage.s3.amazonaws.com/Full_report_COVID_19_recreational_drug_use_Drugs_and_Me_21348272dc.pdf] with the (appendix)[https://dnm-storage.s3.amazonaws.com/Appendix_COVID_19_recreational_drug_use_Drugs_and_Me_d77a93f8e5.pdf]. You can read a 2-page summary (here)[https://dnm-storage.s3.amazonaws.com/Executive_summary_COVID_19_recreational_drug_use_Drugs_and_Me_d0e6d23688.pdf].
+On December 2020, Eszter and I published a full report of the findings of the survey. Read the full report [here](https://dnm-storage.s3.amazonaws.com/Full_report_COVID_19_recreational_drug_use_Drugs_and_Me_21348272dc.pdf) with the [appendix](https://dnm-storage.s3.amazonaws.com/Appendix_COVID_19_recreational_drug_use_Drugs_and_Me_d77a93f8e5.pdf). You can read a 2-page summary [here](https://dnm-storage.s3.amazonaws.com/Executive_summary_COVID_19_recreational_drug_use_Drugs_and_Me_d0e6d23688.pdf).
 
 ## Acknowledgements
 
