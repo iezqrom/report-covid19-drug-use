@@ -70,7 +70,7 @@ nbformat==4.4.0
 nidaqmx==0.5.7
 notebook==6.0.2
 numexpr==2.7.0
-numpy==1.17.4
+numpy==1.22.0
 opencv-python==4.1.2.30
 openpyxl==3.0.2
 pandas==0.25.3
