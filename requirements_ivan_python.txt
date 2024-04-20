@@ -24,8 +24,6 @@ esprima==4.0.1
 et-xmlfile==1.0.1
 filelock==3.0.12
 freetype-py==2.1.0.post1
-future==0.18.2
-gevent==23.9.0
 gitdb2==2.0.6
 GitPython==3.1.41
 glfw==1.8.7
