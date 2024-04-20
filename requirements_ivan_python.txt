@@ -89,7 +89,7 @@ pyasn1==0.4.8
 PyAudio==0.2.11
 pycparser==2.19
 pyglet==1.4.8
-Pygments==2.5.2
+Pygments==2.15.0
 pylint==2.4.4
 pyobjc==6.1
 pyobjc-core==6.1
