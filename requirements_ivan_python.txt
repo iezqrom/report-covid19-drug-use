@@ -27,7 +27,7 @@ freetype-py==2.1.0.post1
 future==0.18.2
 gevent==1.4.0
 gitdb2==2.0.6
-GitPython==3.0.5
+GitPython==3.1.41
 glfw==1.8.7
 greenlet==0.4.15
 h5py==2.10.0
