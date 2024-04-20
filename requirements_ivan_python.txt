@@ -69,7 +69,7 @@ nidaqmx==0.5.7
 notebook==6.0.2
 numexpr==2.7.0
 numpy==1.22.0
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 openpyxl==3.0.2
 pandas==0.25.3
 pandocfilters==1.4.2
