@@ -237,7 +237,6 @@ stevedore==1.32.0
 tables==3.6.1
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.3.3
 tqdm==4.66.3
 traitlets==4.3.3
 typed-ast==1.4.1
