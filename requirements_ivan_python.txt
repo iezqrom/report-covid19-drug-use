@@ -240,7 +240,7 @@ testpath==0.4.4
 tqdm==4.66.3
 traitlets==4.3.3
 typed-ast==1.4.1
-urllib3==1.26.18
+urllib3==1.26.19
 virtualenv==20.0.8
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
