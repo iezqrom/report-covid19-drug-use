@@ -252,4 +252,4 @@ wxPython==4.0.7.post2
 xarray==0.14.1
 xlrd==1.2.0
 zaber.serial==0.9
-zipp==0.6.0
+zipp==3.19.1
