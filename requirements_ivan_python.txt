@@ -21,7 +21,7 @@ docutils==0.15.2
 entrypoints==0.3
 esprima==4.0.1
 et-xmlfile==1.0.1
-filelock==3.0.12
+filelock==3.20.3
 freetype-py==2.1.0.post1
 gitdb2==2.0.6
 GitPython==3.1.41
